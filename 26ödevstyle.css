@@ -1,0 +1,26 @@
+main.title a{
+    background-color: red;
+    color: #EAF6F6;
+    
+    
+}
+
+.title{ 
+    text-align: center;
+    
+}
+main.title a{
+    margin: 20px;
+    padding: 10px 5px ;
+    text-decoration: none;
+    
+}
+.title ::before{
+    content: "❤️";
+    
+}
+
+
+
+
+
